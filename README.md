@@ -5,4 +5,6 @@ The pixel width of each glyph is just 4 pixels wide per character with one blank
 
 I created this font out of a need and desire to have this small size while retaining the features I value as most important in a good programming font.  The featrues include the following:
 Clearly distinguashable bracketing () {} [] 
-	In MicroBlok the bracketing glyphs are larger in combined height and descent of all apha-numerical glyphs
+	In MicroBlok the bracketing glyphs are larger in combined height and descent of all apha-numerical glyphs.
+
+    
