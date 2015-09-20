@@ -21,7 +21,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1280473793
-ModificationTime: 1442732700
+ModificationTime: 1442743604
 PfmFamily: 49
 TTFWeight: 700
 TTFWidth: 5
@@ -79,7 +79,7 @@ ShortTable: maxp 16
   0
   0
 EndShort
-LangName: 1033 "" "" "" "derekstrasters:microblok" "" "" "" "" "" "" "" "" "" "" "" "" "" "Regular" 
+LangName: 1033 "" "" "" "derekstrasters:microblok" 
 GaspTable: 1 65535 1 0
 DesignSize: 75
 Encoding: Original
