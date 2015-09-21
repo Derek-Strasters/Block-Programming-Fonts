@@ -4,7 +4,8 @@
 
 MicroBlock is a **very** tiny monospaced programming font who's main design feature is to work in modern IDE's with a crisp clean and readable look (while still being, _very_, **_very_** small).
 
-![](/images/Screenshot%20from%202015-09-20%2022%3A08%3A43.png)(A standard 80x24 terminal window)
+![](/images/Screenshot%20from%202015-09-20%2022%3A08%3A43.png)
+(A standard 80x24 terminal window)
 
 The pixel width of each glyph is just 4 pixels wide per character with one blank column totaling only 5 pixels wide and no glyph has a height greater than 10 pixels making a charming 2:1 height to width ratio.
 
@@ -12,21 +13,21 @@ It's design is of a small bitmaped square font, except wherever possible the Nor
 
 A notable feature is that the "Italic" version is not actually slanted, rather it is a completely square font.  The purpose of Italics in the purview of modern IDE's is to identify certain types of code, so it needs only to be distinguishable from the Regular version of the font.  That was the reasoning for this anyways, feedback is welcome.
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/Derek-Strasters/Block-Programming-Fonts/master/images/Screenshot%20from%202015-09-20%2021%3A31%3A38.png)
+![](/images/Screenshot%20from%202015-09-20%2021%3A31%3A38.png)
 I created this font out of a need and desire to have this small size while retaining the features I value as most important in a good programming font.  The features include the following:
 
 ###Features
 
 - Clearly distinguishable bracketing () {} [] 
   The bracketing glyphs are larger in combined height and descent of all alpha-numerical glyphs. (See Fig. 1)
-(Figure 1)![]({{site.baseurl}}/https://github.com/Derek-Strasters/Block-Programming-Fonts/blob/master/images/screenshot63.png)
+(Figure 1)![](/images/screenshot63.png)
 
 - Easy differentiation between commonly mixed up glyphs: 1, l, i, and I or o, O, and 0 for example.  Each is very unique. (See Fig. 1)
 - Easy Number Identification. The numbers are both emboldened and raised one pixel above the alphabetical glyphs to make them very easy to identify. (See Fig. 2)
-(Figure 2)![]({{site.baseurl}}/https://github.com/Derek-Strasters/Block-Programming-Fonts/blob/master/images/screenshot64.png)
+(Figure 2)![](/images/screenshot64.png)
 
 - Bold Lettering that is easy to read, not ugly, and fits in the alloted space.  An outline font is used, it goes beyond the typical width and so may touch the edges of other glyphs, but will not overlap.  The value here somewhat depends on the idea that bold and regular font do not normally touch. (See Fig. 3)
-(Figure 3)![]({{site.baseurl}}/https://github.com/Derek-Strasters/Block-Programming-Fonts/blob/master/images/screenshot65.png)
+(Figure 3)![](/images/screenshot65.png)
 
 - Includes box making glyphs.  They are inverted in the bold styles.
 - Includes Currency glyphs and common symbols.
@@ -68,7 +69,7 @@ When you start font-manager you may need to update the locations by adding the a
 
 > /home/ [Your User Name] /.local/share/fonts
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/Derek-Strasters/Block-Programming-Fonts/master/images/Screenshot%20from%202015-09-21%2000%3A16%3A47.png)
+![](/images/Screenshot%20from%202015-09-21%2000%3A16%3A47.png)
 
 Font Manager will need to restart.  Now locate the Microblok font, select it, and select from the menu bar **Set Font Preferences > Advanced Settings**.
 
@@ -99,13 +100,13 @@ Some applications like IntelliJ's Android Studio set an artificial DPI, on my sy
 Here is Android Studio on a 1920x1080 monitor for example 
 (Make sure to view it at 100% scale to see the pixels correctly)
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/Derek-Strasters/Block-Programming-Fonts/master/images/Screenshot%20from%202015-09-21%2000%3A38%3A08.png)
+![](/images/Screenshot%20from%202015-09-21%2000%3A38%3A08.png)
 
 Here is Eclipse.
 Almost three full 120 character columns!!
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/Derek-Strasters/Block-Programming-Fonts/master/images/Screenshot%20from%202015-09-21%2000%3A38%3A16.png)
+![](/images/Screenshot%20from%202015-09-21%2000%3A38%3A16.png)
 
 You can get a lot of print into Terminal windows.
 
-![]({{site.baseurl}}/https://raw.githubusercontent.com/Derek-Strasters/Block-Programming-Fonts/master/images/Screenshot%20from%202015-09-20%2021%3A54%3A59.png)
+![](/images/Screenshot%20from%202015-09-20%2021%3A54%3A59.png)
