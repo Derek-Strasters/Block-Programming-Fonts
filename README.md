@@ -121,3 +121,8 @@ Almost three full 120 character columns!!
 You can get a lot of print into Terminal windows.
 
 ![](/images/Screenshot%20from%202015-09-20%2021%3A54%3A59.png)
+
+###Issues
+
+Unfortunately, this font is at the moment only available in the english alphabetical letters.  The FontForge files are contained in the repo and anyone desiring to help is welcome to message me for collaboration efforts.
+
