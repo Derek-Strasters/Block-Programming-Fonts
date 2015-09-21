@@ -28,7 +28,7 @@ I created this font out of a need and desire to have this small size while retai
 (Figure 1)
 
 - Easy differentiation between commonly mixed up glyphs: 1, l, i, and I or o, O, and 0 for example.  Each is very unique. (See Fig. 1)
-- Easy Number Identification. The numbers are both emboldened and raised one pixel above the alphabetical glyphs to make them very easy to identify. (See Fig. 2)
+- Easy Number Identification. The numbers are raised one pixel above the alphabetical glyphs to make them very easy to identify. (See Fig. 2)
 
 ![](/images/screenshot64.png)
 
