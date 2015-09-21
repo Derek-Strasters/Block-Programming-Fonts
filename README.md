@@ -44,13 +44,14 @@ The .ttf files are easily installed using the standare font viewers, however in 
 
 Run the following commands one line at a time into a terminal to install the Microblok font:
 
-> cd ~/.local/share/fonts
-    
-	> wget https://github.com/Derek-Strasters/Block-Programming-Fonts/raw/master/Microblok-Regular.ttf
-    
+	cd ~/.local/share/fonts
+
+	wget https://github.com/Derek-Strasters/Block-Programming-Fonts/raw/master/Microblok-Regular.ttf
+
 	wget https://github.com/Derek-Strasters/Block-Programming-Fonts/raw/master/Microblok-Bold.ttf
-    
+
 	wget https://github.com/Derek-Strasters/Block-Programming-Fonts/raw/master/Microblok-Italic.ttf
-    
+
 	wget https://github.com/Derek-Strasters/Block-Programming-Fonts/raw/master/Microblok-Bold-Italic.ttf
+    
 
