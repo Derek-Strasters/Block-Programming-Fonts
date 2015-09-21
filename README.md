@@ -82,7 +82,7 @@ When you start font-manager you may need to update the locations by adding the a
 
 ![](/images/Screenshot%20from%202015-09-21%2000%3A16%3A47.png)
 
-Font Manager will need to restart.  Now locate the Microblok font, select it, and select from the menu bar **Set Font Preferences > Advanced Settings**.
+Font Manager will need to restart. Locate the Microblok font, select it, and from the menu bar select **Set Font Preferences > Advanced Settings**.
 
 Check the boxes for:
 
