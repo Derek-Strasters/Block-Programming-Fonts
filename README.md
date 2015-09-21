@@ -71,7 +71,7 @@ After you have run all commands restart.
 
 ##Useage
 
-##Setup
+###Setup
 To use the font in an IDE I would recommend first installing font manager.
 
 	sudo apt-get install font-manager
@@ -93,7 +93,7 @@ Check the boxes for:
 
 Because this font has bitmaps embedded it will be crisp and without fuzzy edges when it is set to the correct size in applications.  It will otherwise use Anti-Alias and sub-pixel rendering so it does not have artifacts if the application uses a different size variation of the font.
 
-##Selecting Font Size
+###Selecting Font Size
 
 Whether the font displays correctly depends on the DPI settings of your system.  Some common DPI settings and the corresponding font sizes are listed below:
 
