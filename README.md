@@ -71,8 +71,8 @@ After you have run all commands restart.
 
 ##Usage
 
-###Setup
-Usage the font in an IDE I would recommend first installing font manager.
+###Setup for Ubuntu
+For usage of the font in an IDE I would recommend first installing font manager.
 
 	sudo apt-get install font-manager
     
