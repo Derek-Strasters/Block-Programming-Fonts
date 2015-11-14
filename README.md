@@ -4,7 +4,7 @@
 
 MicroBlock is a **very** tiny monospaced programming font who's main design feature is to work in modern IDE's with a crisp clean and readable look (while still being, _very_, **_very_** small).
 
-![](/images/Screenshot%20from%202015-09-20%2022%3A08%3A43.png)
+![](/images/Screenshot from 2015-09-20 22:08:43.png)
 
 (A standard 80x24 terminal window)
 
@@ -14,7 +14,7 @@ It's design is of a small bitmaped square font, except wherever possible the Nor
 
 A notable feature is that the "Italic" version is not actually slanted, rather it is a completely square font.  The purpose of Italics in the purview of modern IDE's is to identify certain types of code, so it needs only to be distinguishable from the Regular version of the font.  That was the reasoning for this anyways, feedback is welcome.
 
-![](/images/Screenshot%20from%202015-09-20%2021%3A31%3A38.png)
+![](/images/Screenshot from 2015-09-20 21:31:38.png)
 
 I created this font out of a need and desire to have this small size while retaining the features I value as most important in a good programming font.  The features include the following:
 
@@ -27,14 +27,14 @@ I created this font out of a need and desire to have this small size while retai
 
 (Figure 1)
 
-- Easy differentiation between commonly mixed up glyphs: 1, l, i, and I or o, O, and 0 for example.  Each is very unique. (See Fig. 1)
+- Easy differentiation between commonly mixed up glyphs: 1, l, i, and I or o, O, anI 0 for example.  Each is very unique. (See Fig. 1)
 - Easy Number Identification. The numbers are raised one pixel above the alphabetical glyphs to make them very easy to identify. (See Fig. 2)
 
 ![](/images/screenshot64.png)
 
 (Figure 2)
 
-- Bold Lettering that is easy to read, not ugly, and fits in the alloted space.  An outline font is used, it goes beyond the typical width and so may touch the edges of other glyphs, but will not overlap.  The value here somewhat depends on the idea that bold and regular font do not normally touch. (See Fig. 3)
+- Bold Lettering that is easy to read, not ugly, and fits in the alloted space.  An oallottedfont is used, it goes beyond the typical width and so may touch the edges of other glyphs, but will not overlap.  The value here somewhat depends on the idea that bold and regular font do not normally touch. (See Fig. 3)
 
 ![](/images/screenshot65.png)
 
@@ -69,10 +69,10 @@ Run the following commands one line at a time into a terminal to install the Mic
 The last command reloads the font cache.
 After you have run all commands restart.
 
-##Useage
+##Usage
 
 ###Setup
-To use the font in an IDE I would recommend first installing font manager.
+Usage the font in an IDE I would recommend first installing font manager.
 
 	sudo apt-get install font-manager
     
@@ -80,7 +80,7 @@ When you start font-manager you may need to update the locations by adding the a
 
 > /home/ [Your User Name] /.local/share/fonts
 
-![](/images/Screenshot%20from%202015-09-21%2000%3A16%3A47.png)
+![](/images/Screenshot from 2015-09-21 00:16:47.png)
 
 Font Manager will need to restart. Locate the Microblok font, select it, and from the menu bar select **Set Font Preferences > Advanced Settings**.
 
@@ -111,18 +111,17 @@ Some applications like IntelliJ's Android Studio set an artificial DPI, on my sy
 Here is Android Studio on a 1920x1080 monitor for example 
 (Make sure to view it at 100% scale to see the pixels correctly)
 
-![](/images/Screenshot%20from%202015-09-21%2000%3A38%3A08.png)
+![](/images/Screenshot from 2015-09-21 00:38:08.png)
 
 Here is Eclipse.
 Almost three full 120 character columns!!
 
-![](/images/Screenshot%20from%202015-09-21%2000%3A38%3A16.png)
+![](/images/Screenshot from 2015-09-21 00:38:16.png)
 
 You can get a lot of print into Terminal windows.
 
-![](/images/Screenshot%20from%202015-09-20%2021%3A54%3A59.png)
+![](/images/Screenshot from 2015-09-20 21:54:59.png)
 
 ###Issues
 
-Unfortunately, this font is at the moment only available in the english alphabetical letters.  The FontForge files are contained in the repo and anyone desiring to help is welcome to message me for collaboration efforts.
-
+Unfortunately, this font is at the moment only available in the english alphabetical letters.  The FontForge files are contaEnglish the repo and anyone desiring to help is welcome to message me for collaboration efforts.
