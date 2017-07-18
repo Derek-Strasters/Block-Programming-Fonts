@@ -1,10 +1,10 @@
 # Block-Programming-Fonts
 
-##Introduction
+## Introduction
 
 MicroBlock is a **very** tiny monospaced programming font who's main design feature is to work in modern IDE's with a crisp clean and readable look (while still being, _very_, **_very_** small).
 
-![](/images/Screenshot from 2015-09-20 22:08:43.png)
+![](/images/Screenshot%20from%202015-09-20%2022:08:43.png)
 
 (A standard 80x24 terminal window)
 
@@ -14,11 +14,11 @@ It's design is of a small bitmaped square font, except wherever possible the Nor
 
 A notable feature is that the "Italic" version is not actually slanted, rather it is a completely square font.  The purpose of Italics in the purview of modern IDE's is to identify certain types of code, so it needs only to be distinguishable from the Regular version of the font.  That was the reasoning for this anyways, feedback is welcome.
 
-![](/images/Screenshot from 2015-09-20 21:31:38.png)
+![](/images/Screenshot%20from%202015-09-20%2021:31:38.png)
 
 I created this font out of a need and desire to have this small size while retaining the features I value as most important in a good programming font.  The features include the following:
 
-###Features
+### Features
 
 - Clearly distinguishable bracketing () {} [] 
   The bracketing glyphs are larger in combined height and descent of all alpha-numerical glyphs. (See Fig. 1)
@@ -44,18 +44,18 @@ I created this font out of a need and desire to have this small size while retai
 - Includes Currency glyphs and common symbols.
 - BFD formats have been included for those that would like to attempt installation as a TTY font.
 
-##Installation
+## Installation
 
-###Support
+### Support
 
 Currently the only tested OS for this font is Linux Ubuntu on the desktop environments xfce4 and Ubuntu-MATE.
 Please contact me if you can confirm other builds or to report bugs.
 
-###Installing
+### Installing
 
 The .ttf files are easily installed using the standard font viewers, however in some cases they may not be installed to the correct location.  The recommended method of install is by terminal (See below).
 
-###Install by Terminal
+### Install by Terminal
 
 Run the following commands one line at a time into a terminal to install the Microblok font:
 
@@ -69,9 +69,9 @@ Run the following commands one line at a time into a terminal to install the Mic
 The last command reloads the font cache.
 After you have run all commands restart.
 
-##Usage
+## Usage
 
-###Setup for Ubuntu
+### Setup for Ubuntu
 For usage of the font in an IDE I would recommend first installing font manager.
 
 	sudo apt-get install font-manager
@@ -80,7 +80,7 @@ When you start font-manager you may need to update the locations by adding the a
 
 > /home/ [Your User Name] /.local/share/fonts
 
-![](/images/Screenshot from 2015-09-21 00:16:47.png)
+![](/images/Screenshot%20from%202015-09-21%2000:16:47.png)
 
 Font Manager will need to restart. Locate the Microblok font, select it, and from the menu bar select **Set Font Preferences > Advanced Settings**.
 
@@ -93,7 +93,7 @@ Check the boxes for:
 
 Because this font has bitmaps embedded it will be crisp and without fuzzy edges when it is set to the correct size in applications.  It will otherwise use Anti-Alias and sub-pixel rendering so it does not have artifacts if the application uses a different size variation of the font.
 
-###Selecting Font Size
+### Selecting Font Size
 
 Whether the font displays correctly depends on the DPI settings of your system.  Some common DPI settings and the corresponding font sizes are listed below:
 
@@ -111,17 +111,17 @@ Some applications like IntelliJ's Android Studio set an artificial DPI, on my sy
 Here is Android Studio on a 1920x1080 monitor for example 
 (Make sure to view it at 100% scale to see the pixels correctly)
 
-![](/images/Screenshot from 2015-09-21 00:38:08.png)
+![](/images/Screenshot%20from%202015-09-21%2000:38:08.png)
 
 Here is Eclipse.
 Almost three full 120 character columns!!
 
-![](/images/Screenshot from 2015-09-21 00:38:16.png)
+![](/images/Screenshot%20from%202015-09-21%2000:38:16.png)
 
 You can get a lot of print into Terminal windows.
 
-![](/images/Screenshot from 2015-09-20 21:54:59.png)
+![](/images/Screenshot%20from%202015-09-20%2021:54:59.png)
 
-###Issues
+### Issues
 
 Unfortunately, this font is at the moment only available in the english alphabetical letters.  The FontForge files are contaEnglish the repo and anyone desiring to help is welcome to message me for collaboration efforts.
